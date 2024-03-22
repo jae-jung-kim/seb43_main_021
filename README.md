@@ -8,7 +8,7 @@
 # 📍 프로젝트 정보
 + 프로젝트 기간 : 2023.04.28 ~ 2023.05.30
 + 배포 링크 : http://seb-main-021.s3-website.ap-northeast-2.amazonaws.com/
-
++ 서비스 메뉴얼 : [니꺼 내꺼 프로젝트 pdf.pdf](https://github.com/codestates-seb/seb43_main_021/files/14691373/pdf.pdf)
 <br/>
 
 # 💻 기술 스택
