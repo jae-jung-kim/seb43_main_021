@@ -127,7 +127,7 @@
 <br/>
 
 # 📄 문서
-+ 사용자 요구사항 정의서 : [링크](https://www.notion.so/codestates/5f81b2a8f9c74ba7bdae616f46dd378b?v=ec51e24bbb7e48389129c508081eb106&p=ea532e274f5a4c01bec15593009d5a95&pm=s)
++ 사용자 요구사항 정의서 : [링크](https://www.notion.so/Service-9e7a86e572de4f81989a96737e6d32e4?pvs=4)
 + API 명세서 : [링크](https://www.notion.so/codestates/5f81b2a8f9c74ba7bdae616f46dd378b?v=ec51e24bbb7e48389129c508081eb106&p=2be28425e35a4d5b9468b69afbfff79d&pm=s)
 + 화면 정의서 : [링크](https://www.figma.com/file/uoIAJ7hF9wxP4SosbVGj5A/SEB_43_Main?type=design&node-id=0-1&t=ycBaLHRSXRj5gF41-0)
 + ERD
